@@ -1,5 +1,5 @@
 # Minesweeper-Game
-My own implementation of the famous Minesweeper game.
+My own Java Swing implementation of the famous Minesweeper game.
 
 This particular implementation stands out thanks to such features:
   - In-game timer
